@@ -7,9 +7,7 @@
 
 TC Explorer is an interactive web application for visualizing and analyzing tropical cyclone data across different climate scenarios. The application provides comprehensive tools for researchers to explore cyclone tracks, genesis locations, intensity patterns, and scenario comparisons.
 
-**Live Application:** https://tropicalcycloneexplorer.azurewebsites.net/
-
-~~**Testing Branch:** https://tcexplorertest.azurewebsites.net~~ Test server has been removed.
+**Live Application:** https://tcexplorerdd.azurewebsites.net/
 
 ## Installation & Setup
 
